@@ -1,5 +1,7 @@
 # Meme-project
 Title: MoodMeme
+**Sinppet:**
+Introducing MoodyMemes : A fun HTML/CSS project that instantly serves up memes matching your mood! Select from a range of emotions and get a meme that perfectly captures your feeling. With a simple interface and quick loading times, it's the perfect way to brighten your day or share a laugh with friends. Try it now and discover memes tailored to your mood!
 
 **Description:**
 
