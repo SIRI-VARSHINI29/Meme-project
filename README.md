@@ -1,7 +1,8 @@
 # Meme-project
-Title: MoodMeme (# Meme-project)
+Title: MoodMeme
 
 **Description:**
+
 1.MoodMeme Generator is an innovative project that utilizes HTML and CSS to provide users with memes tailored to their current mood. With this interactive web application, users can select from a range of moods, from joyous and energetic to contemplative and relaxed, and instantly receive a meme that perfectly encapsulates that emotion.
 
 2.The user interface is simple and intuitive, featuring a selection of mood categories represented by vibrant icons or emotive illustrations. Upon selecting a mood, the application dynamically generates a meme that aligns with the chosen emotion. The memes are sourced from a diverse collection, ensuring that users encounter fresh and entertaining content with each interaction.
