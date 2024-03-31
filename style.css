@@ -1,0 +1,113 @@
+html{
+    background-color:black;
+}
+body{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+h1{
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:400;
+    font-size:2cm;
+    font-style: normal;
+    color:#FFFAE4;
+    text-align:center;
+}
+
+  
+.container{
+    display:grid;
+    grid-template-columns: repeat(4,200px);
+    grid-template-rows: repeat(4, 200px);
+    grid-gap:20px;
+    align-items: center;
+    justify-content: center;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:400;
+    font-style: normal;
+}
+      
+#happy{
+    background-color:#FDEE4B;
+    border:1px solid black;
+    text-align:center; 
+    margin:10px 10px;
+    height:200px;
+    width:200px;
+    
+}
+
+#funny{
+     background-color:#FF7F50;
+     border:1px solid black;
+     text-align:center;
+     margin:10px 10px;
+     height:200px;
+     width:200px;
+     
+     
+     
+}
+#motivational{
+    background-color: #e23744;
+    border:1px solid black;
+    text-align:center;
+    margin:10px 10px;
+    color:#F4F4F2;
+    height:200px;
+    width:200px;
+    
+}
+
+#sad{
+    background-color:rgb(85, 65, 211);
+    border:1px solid black;
+    text-align:center;
+    margin:10px 10px;
+    height:200px;
+    width:200px;
+    color:#FFFAE4;
+   
+}
+            
+#gen-z{
+    background-color:rgb(208, 141, 247);
+    border:1px solid black;
+    text-align:center;
+    margin:10px 10px;
+    height:200px;
+    width:200px;
+    
+}
+            
+#delulu{
+    background-color: pink; 
+    border:1px solid black;
+    text-align:center;
+    margin:10px 10px;
+    height:200px;
+    width:200px;
+    
+}
+
+#party{
+    background-color:rgb(255, 166, 0);
+    border:1px solid black;
+    text-align:center;
+    margin:10px 10px;
+    height:200px;
+    width:200px;
+    
+}
+#nom{
+    background-color:rgb(122, 245, 124);
+    border:1px solid black;
+    text-align:center;
+    margin:10px 10px;
+    height:200px;
+    width:200px;
+    
+    
+}

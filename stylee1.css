@@ -1,0 +1,27 @@
+html{
+    background-color: black;
+}
+
+img{
+        height:200px;
+        width:300px; 
+        border:solid beige;
+        border:15px 15px;
+        
+        margin:20px 20px;
+       
+    }
+    
+   
+    h1{
+            font-family: "Syncopate", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+            text-align:center;
+            color:#FFFAE4;
+   }
+    
+    
+   
+
+   
