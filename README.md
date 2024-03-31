@@ -1,7 +1,7 @@
 # Meme-project
 Title: MoodMeme
 
-**FOR SMOOTH AND FASTER RESPONSE:**Try to click on the "MOOD NAME" rather than image.
+**FOR SMOOTH AND FASTER RESPONSE:** Try to click on the "MOOD NAME" rather than image.
 
 **Sinppet:**
 
